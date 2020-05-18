@@ -1,0 +1,7 @@
+tensorflow
+
+pytorch
+
+transformers
+
+spacy

@@ -1,0 +1,149 @@
+arg1,arg2,verb,sentence,verb_idx,label
+singer,,boost, The singer had to be boosted onto the stage by a special contraption .,5,0
+decision,,wrestle, I wrestled with this decision for years .,1,1
+color,,harmonize, The colors do n't harmonize .,4,1
+book,,line, lined books are more enduring .,0,0
+neutron,,capture, This nucleus has captured the slow - moving neutrons .,3,0
+patience,,tax, You are taxing my patience .,2,1
+campaign,,mount, mount a campaign against pornography .,0,1
+chain,,tug, The prisoner tugged at the chains .,2,0
+cord,,twist, The cord is all twisted .,4,0
+mother,,swell, The mother was swelling with importance when she spoke of her son .,3,1
+nickname,,fasten, They fastened various nicknames to each other .,1,1
+milk,,digest, I can not digest milk products .,3,0
+face,,cloud, Their faces were clouded with sadness .,3,1
+feather,,ruffle, The bird ruffled its feathers .,2,0
+platter,,heap, heap the platter with potatoes .,0,0
+information,,sift, He sifted the information .,1,1
+oxygen,,bind, The hydrogen binds the oxygen .,2,1
+rival,,claw, The politician clawed his rival .,2,1
+story,,lend, This story would lend itself well to serialization on television .,3,1
+X-ray,,scan, the surgeon scanned the X - ray .,2,0
+ball,,mold, She molded the rice balls carefully .,1,0
+novel,,devour, She devoured his novels .,1,1
+can,,crush, crush an aluminum can .,0,0
+gun,,load, He loaded his gun carefully .,1,0
+sky,,scan, The beams scanned the night sky .,2,1
+ship,,steam, The ship steamed off into the Pacific .,2,0
+dog,,kick, The boy kicked the dog .,2,0
+language,,incline, Their language inclines us to believe them .,2,1
+muscle,,tense, the bodybuilder 's neck muscles tensed .,5,0
+freedom,,taste, The ex - slave tasted freedom shortly before she died .,4,1
+planet,,condense, All our planets condensed out of the same material .,3,0
+aerator,,mount, They mounted the aerator on a floating .,1,0
+vegetable,,steam, just steam the vegetables .,1,0
+husband,,spell, She spelled her husband at the wheel .,1,1
+language,,spread, The invaders spread their language all over the country .,2,1
+dollar,,kite, The businessman kited millions of dollars .,2,1
+reform,,push, The liberal party pushed for reforms .,3,1
+bullet,,ping, the bullet pinged when they struck the car .,2,0
+belief,,reflect, This action reflects his true beliefs .,2,1
+failure,,tax, They taxed him failure to appear in court .,1,1
+suspicion,,sow, sow suspicion or beliefs .,0,1
+airplane,,land, the pilot managed to land the airplane safely .,4,0
+people,,bounce, The ex - boxer 's job is to bounce people who want to enter this private club .,8,1
+press,,gag, The press was gagged .,3,1
+smuggler,,land, The drug smugglers landed the heroin on the beach of the island .,3,0
+husband,,drink, The husband drinks and beats his wife .,2,0
+critic,,puff, The critics puffed up this Broadway production .,2,1
+tension,,relax, relax the tension on the rope .,0,0
+motorcycle,,smash, The motorcycle smashed into the guard rail .,2,0
+peace,,preserve, preserve the peace in the family .,0,1
+rain,,gutter, The heavy rain guttered the soil .,3,0
+book,,sell, These books sell like hot cakes .,2,0
+style,,revive, He revived this style of opera .,1,1
+coal,,glow, The coals were glowing in the dark .,3,0
+oil,,spread, A big oil spot spread across the water .,4,0
+lock,,fasten, He fastened the lock onto the door .,1,0
+forest,,preserve, preserve the forest and the lakes .,0,0
+dinner,,top, They topped off their dinner with a cognac .,1,1
+passenger,,grab, The passenger grabbed for the oxygen mask .,2,0
+athlete,,pump, The athlete pumps weights in the gym .,2,0
+word,,swallow, He swallowed his words .,1,1
+victim,,tie, They tied their victim to the chair .,1,0
+feeling,,recapture, She could not recapture that feeling of happiness .,3,1
+problem,,attack, I attacked the problem as soon as I got out of bed .,1,1
+firewood,,heap, heap firewood around the fireplace .,0,0
+image,,recast, She had to recast her image to please the electorate in her home state .,3,1
+bag,,load, load the bags onto the trucks .,0,0
+present,,shower, He showered her with presents .,1,1
+turkey,,stuff, Have you stuffed the turkey yet ?,2,0
+horse,,gallop, The horse was galloping along .,3,0
+guest,,accommodate, This hotel can accommodate 250 guests .,3,0
+heart,,capture, She captured all the men 's hearts .,1,1
+sun,,glare, The sun glared down on us .,2,1
+martini,,down, He downed three martinis before dinner .,1,1
+verse,,tack, He tacked together some verses .,1,1
+production,,mount, mount a theater production .,0,1
+language,,fracture, This writer really fractures the language .,3,1
+crowd,,push, The crowd pushed forward .,2,0
+painter,,portray," Goya wanted to portray his mistress , the Duchess of Alba .",3,0
+person,,breathe, I can breathe better when the air is clean .,2,0
+soprano,,rotate, We rotate the lead soprano every night .,1,1
+soup,,revive, A hot soup will revive me .,4,1
+balloon,,deflate, The balloons deflated .,2,0
+music,,swell, The music swelled to a crescendo .,2,1
+tower,,top, The towers were topped with conical roofs .,3,0
+conversation,,gravitate, The conversation gravitated towards politics .,2,1
+child,,infect, Your children have infected you with this head cold .,3,0
+hydrogen,,inject, inject hydrogen into the balloon .,0,0
+government,,relax, The government relaxed the curfew after most of the rebels were caught .,2,1
+foot,,blister, Her feet blistered during the long hike .,2,0
+office,,buzz, This office is buzzing with activity .,3,1
+balance,,fracture, These events could fracture the balance of power .,3,1
+basement,,flood, Our basement flooded during the heavy rains .,2,0
+word,,twist, Do n't twist my words .,2,1
+economy,,precipitate, Our economy precipitated into complete ruin .,2,1
+law,,digest, the government digested the entire law into a code .,2,1
+head,,incline, She inclined her head to the student .,1,0
+money,,seize, The sales clerk quickly seized the money on the counter .,4,0
+market,,flood, flood the market with tennis shoes .,0,1
+bee,,buzz, bees were buzzing around the hive .,2,0
+invader,,seize, the invaders seized the land and property of the inhabitants .,2,0
+employee,,dump, The company dumped him after many years of service .,2,1
+image,,reflect, her sunglasses reflected his image .,2,0
+woman,,whistle, She whistled for her maid .,1,0
+effort,,redound, Her efforts will redound to the general good .,3,1
+spice,,grind, grind the spices in a mortar .,0,0
+smoke,,curl, The cigar smoke curled up at the ceiling .,3,1
+rule,,relax, The rules relaxed after the new director arrived .,2,1
+person,,drain, The exercise class drains me of energy .,3,1
+machine,,ping, ping your machine in the office .,0,0
+oscillator,,hunt, The oscillator hunts about the correct frequency .,2,1
+appetite,,dull, Middle age dulled her appetite for travel .,2,1
+wine,,breathe, This rare Bordeaux must be allowed to breathe for at least 2 hours .,7,0
+meteor,,blaze, Meteors blazed across the atmosphere .,1,1
+defense,,build, build a defense on nothing but the accused person 's reputation .,0,1
+ship,,land, The ship landed in Pearl Harbor .,2,0
+colleague,,acknowledge, He never acknowledges his colleagues when they run into him in the hallway .,2,0
+company,,raid, T. Boone Pickens raided many large companies .,3,0
+bridge,,explode, The enemy exploded the bridge .,2,0
+bill,,flash, he flashed a $ 100 bill .,1,1
+car,,lend, I will lend you my car .,2,0
+heart,,glow, Make the people 's hearts glow .,5,1
+liquid,,cloud, The chemical clouded the liquid to which it was added .,2,1
+vine,,uproot, They plan to uproot the vine that has spread all over the garden .,3,0
+problem,,besiege, She was besieged by so many problems that she got discouraged .,2,1
+skin,,crawl, My skin crawled -- I was terrified .,2,1
+hiker,,top, The hikers topped the mountain just before noon .,2,1
+teacher,,steamroller, The new teacher tends to steamroller .,5,1
+contribution,,match, The company matched the employees ' contributions .,2,1
+water,,splash, She splashed the water around her .,1,0
+prince,,acknowledge, The Crown Prince was acknowledged as the true heir to the throne .,4,0
+market,,clog, The market is being clogged by these operations .,4,1
+sorrow,,line, sorrow had lined his face .,2,1
+knowledge,,absorb, He absorbed the knowledge or beliefs of his tribe .,1,1
+pirate,,raid, The pirates raided the coastal villages regularly .,2,0
+path,,climb, The path climbed all the way to the top of the hill .,2,1
+drink,,poison, Her husband poisoned her drink in order to kill her .,2,0
+work,,heap, He heaped him with work .,1,1
+goal,,harmonize, harmonize one 's goals with one 's abilities .,0,1
+sandwich,,devour, he devoured three sandwiches .,1,0
+anxiety,,communicate, He communicated his anxieties to the psychiatrist .,1,0
+container,,fill, The liquid fills the container .,2,0
+paris,,visit, Did you ever visit Paris ? .,3,0
+pedal,,jam, The driver jammed the brake pedal to the floor .,2,0
+drain,,clog, The leaves clog our drains in the Fall .,2,0
+event,,engrave, The event engraved itself into her memory .,2,1
+bill,,steamroller, The Senator steamrollered the bill to defeat .,2,1
+accountant,,ping, I 'll ping my accountant -- April 15 is nearing .,2,1

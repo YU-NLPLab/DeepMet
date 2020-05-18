@@ -1,0 +1,719 @@
+threshold: 0
+accuracy: 0.1859
+precision: 0.1859
+recall: 1.0000
+f1: 0.3135
+threshold: 1
+accuracy: 0.8815
+precision: 0.6460
+recall: 0.8016
+f1: 0.7155
+threshold: 2
+accuracy: 0.8945
+precision: 0.6987
+recall: 0.7608
+f1: 0.7284
+threshold: 3
+accuracy: 0.8970
+precision: 0.7231
+recall: 0.7223
+f1: 0.7227
+threshold: 4
+accuracy: 0.8989
+precision: 0.7461
+recall: 0.6912
+f1: 0.7176
+threshold: 5
+accuracy: 0.9011
+precision: 0.7688
+recall: 0.6696
+f1: 0.7158
+threshold: 6
+accuracy: 0.9013
+precision: 0.7878
+recall: 0.6419
+f1: 0.7074
+threshold: 7
+accuracy: 0.9008
+precision: 0.8078
+recall: 0.6119
+f1: 0.6963
+threshold: 8
+accuracy: 0.8990
+precision: 0.8236
+recall: 0.5813
+f1: 0.6816
+threshold: 9
+accuracy: 0.8961
+precision: 0.8477
+recall: 0.5378
+f1: 0.6581
+
+threshold: 0
+accuracy: 0.4356
+precision: 0.4356
+recall: 1.0000
+f1: 0.6069
+threshold: 1
+accuracy: 0.7129
+precision: 0.6531
+recall: 0.7273
+f1: 0.6882
+threshold: 2
+accuracy: 0.7624
+precision: 0.7273
+recall: 0.7273
+f1: 0.7273
+threshold: 3
+accuracy: 0.7822
+precision: 0.7619
+recall: 0.7273
+f1: 0.7442
+threshold: 4
+accuracy: 0.7822
+precision: 0.7750
+recall: 0.7045
+f1: 0.7381
+threshold: 5
+accuracy: 0.7822
+precision: 0.7750
+recall: 0.7045
+f1: 0.7381
+threshold: 6
+accuracy: 0.7822
+precision: 0.7895
+recall: 0.6818
+f1: 0.7317
+threshold: 7
+accuracy: 0.7921
+precision: 0.8108
+recall: 0.6818
+f1: 0.7407
+threshold: 8
+accuracy: 0.7921
+precision: 0.8108
+recall: 0.6818
+f1: 0.7407
+threshold: 9
+accuracy: 0.7723
+precision: 0.8000
+recall: 0.6364
+f1: 0.7089
+best threshold: 3
+best accuracy: 0.7822
+best precision: 0.7619
+best recall: 0.7273
+best f1: 0.7442
+
+threshold: 0
+accuracy: 0.2998
+precision: 0.2998
+recall: 1.0000
+f1: 0.4614
+threshold: 1
+accuracy: 0.8377
+precision: 0.6874
+recall: 0.8416
+f1: 0.7567
+threshold: 2
+accuracy: 0.8594
+precision: 0.7449
+recall: 0.8075
+f1: 0.7749
+threshold: 3
+accuracy: 0.8680
+precision: 0.7801
+recall: 0.7797
+f1: 0.7799
+threshold: 4
+accuracy: 0.8703
+precision: 0.8059
+recall: 0.7473
+f1: 0.7755
+threshold: 5
+accuracy: 0.8694
+precision: 0.8223
+recall: 0.7200
+f1: 0.7678
+threshold: 6
+accuracy: 0.8660
+precision: 0.8406
+recall: 0.6826
+f1: 0.7534
+threshold: 7
+accuracy: 0.8629
+precision: 0.8572
+recall: 0.6513
+f1: 0.7402
+threshold: 8
+accuracy: 0.8542
+precision: 0.8676
+recall: 0.6065
+f1: 0.7139
+threshold: 9
+accuracy: 0.8454
+precision: 0.8778
+recall: 0.5627
+f1: 0.6858
+best threshold: 3
+best accuracy: 0.8680
+best precision: 0.7801
+best recall: 0.7797
+best f1: 0.7799
+
+threshold: 0
+accuracy: 0.4769
+precision: 0.4769
+recall: 1.0000
+f1: 0.6458
+threshold: 1
+accuracy: 0.8000
+precision: 0.7143
+recall: 0.9677
+f1: 0.8219
+threshold: 2
+accuracy: 0.8615
+precision: 0.8056
+recall: 0.9355
+f1: 0.8657
+threshold: 3
+accuracy: 0.8769
+precision: 0.8485
+recall: 0.9032
+f1: 0.8750
+threshold: 4
+accuracy: 0.8923
+precision: 0.8750
+recall: 0.9032
+f1: 0.8889
+threshold: 5
+accuracy: 0.8923
+precision: 0.8750
+recall: 0.9032
+f1: 0.8889
+threshold: 6
+accuracy: 0.9231
+precision: 0.9333
+recall: 0.9032
+f1: 0.9180
+threshold: 7
+accuracy: 0.9077
+precision: 0.9310
+recall: 0.8710
+f1: 0.9000
+threshold: 8
+accuracy: 0.9077
+precision: 0.9310
+recall: 0.8710
+f1: 0.9000
+threshold: 9
+accuracy: 0.8923
+precision: 0.9286
+recall: 0.8387
+f1: 0.8814
+best threshold: 6
+best accuracy: 0.9231
+best precision: 0.9333
+best recall: 0.9032
+best f1: 0.9180
+
+threshold: 0
+accuracy: 0.4545
+precision: 0.4545
+recall: 1.0000
+f1: 0.6250
+threshold: 1
+accuracy: 0.7701
+precision: 0.7211
+recall: 0.8059
+f1: 0.7611
+threshold: 2
+accuracy: 0.7620
+precision: 0.7368
+recall: 0.7412
+f1: 0.7390
+threshold: 3
+accuracy: 0.7620
+precision: 0.7647
+recall: 0.6882
+f1: 0.7245
+threshold: 4
+accuracy: 0.7620
+precision: 0.7872
+recall: 0.6529
+f1: 0.7138
+threshold: 5
+accuracy: 0.7594
+precision: 0.7941
+recall: 0.6353
+f1: 0.7059
+threshold: 6
+accuracy: 0.7594
+precision: 0.8030
+recall: 0.6235
+f1: 0.7020
+threshold: 7
+accuracy: 0.7433
+precision: 0.7937
+recall: 0.5882
+f1: 0.6757
+threshold: 8
+accuracy: 0.7460
+precision: 0.8049
+recall: 0.5824
+f1: 0.6758
+threshold: 9
+accuracy: 0.7540
+precision: 0.8679
+recall: 0.5412
+f1: 0.6667
+best threshold: 1
+best accuracy: 0.7701
+best precision: 0.7211
+best recall: 0.8059
+best f1: 0.7611
+
+verb threshold: 0
+verb accuracy: 0.2998
+verb precision: 0.2998
+verb recall: 1.0000
+verb f1: 0.4614
+verb threshold: 1
+verb accuracy: 0.8178
+verb precision: 0.6399
+verb recall: 0.8972
+verb f1: 0.7470
+verb threshold: 2
+verb accuracy: 0.8497
+verb precision: 0.7038
+verb recall: 0.8609
+verb f1: 0.7745
+verb threshold: 3
+verb accuracy: 0.8594
+verb precision: 0.7386
+verb recall: 0.8217
+verb f1: 0.7780
+verb threshold: 4
+verb accuracy: 0.8687
+verb precision: 0.7753
+verb recall: 0.7916
+verb f1: 0.7834
+verb threshold: 5
+verb accuracy: 0.8708
+verb precision: 0.8007
+verb recall: 0.7575
+verb f1: 0.7785
+verb threshold: 6
+verb accuracy: 0.8701
+verb precision: 0.8215
+verb recall: 0.7240
+verb f1: 0.7697
+verb threshold: 7
+verb accuracy: 0.8667
+verb precision: 0.8473
+verb recall: 0.6775
+verb f1: 0.7529
+verb threshold: 8
+verb accuracy: 0.8594
+verb precision: 0.8632
+verb recall: 0.6309
+verb f1: 0.7290
+verb threshold: 9
+verb accuracy: 0.8520
+verb precision: 0.8851
+verb recall: 0.5821
+verb f1: 0.7023
+best verb threshold: 4
+best verb accuracy: 0.8687
+best verb precision: 0.7753
+best verb recall: 0.7916
+best verb f1: 0.7834
+
+allpos threshold: 0
+allpos accuracy: 0.1794
+allpos precision: 0.1794
+allpos recall: 1.0000
+allpos f1: 0.3042
+allpos threshold: 1
+allpos accuracy: 0.8721
+allpos precision: 0.6006
+allpos recall: 0.8566
+allpos f1: 0.7061
+allpos threshold: 2
+allpos accuracy: 0.8972
+allpos precision: 0.6779
+allpos recall: 0.8139
+allpos f1: 0.7397
+allpos threshold: 3
+allpos accuracy: 0.9068
+allpos precision: 0.7238
+allpos recall: 0.7767
+allpos f1: 0.7494
+allpos threshold: 4
+allpos accuracy: 0.9115
+allpos precision: 0.7587
+allpos recall: 0.7428
+allpos f1: 0.7507
+allpos threshold: 5
+allpos accuracy: 0.9126
+allpos precision: 0.7837
+allpos recall: 0.7087
+allpos f1: 0.7443
+allpos threshold: 6
+allpos accuracy: 0.9116
+allpos precision: 0.8033
+allpos recall: 0.6718
+allpos f1: 0.7317
+allpos threshold: 7
+allpos accuracy: 0.9097
+allpos precision: 0.8261
+allpos recall: 0.6288
+allpos f1: 0.7141
+allpos threshold: 8
+allpos accuracy: 0.9061
+allpos precision: 0.8428
+allpos recall: 0.5859
+allpos f1: 0.6913
+allpos threshold: 9
+allpos accuracy: 0.9029
+allpos precision: 0.8739
+allpos recall: 0.5359
+allpos f1: 0.6644
+best allpos threshold: 4
+best allpos accuracy: 0.9115
+best allpos precision: 0.7587
+best allpos recall: 0.7428
+best allpos f1: 0.7507
+
+verb threshold: 0
+verb accuracy: 0.2998
+verb precision: 0.2998
+verb recall: 1.0000
+verb f1: 0.4614
+verb threshold: 1
+verb accuracy: 0.8384
+verb precision: 0.6804
+verb recall: 0.8694
+verb f1: 0.7634
+verb threshold: 2
+verb accuracy: 0.8658
+verb precision: 0.7543
+verb recall: 0.8194
+verb f1: 0.7855
+verb threshold: 3
+verb accuracy: 0.8687
+verb precision: 0.7778
+verb recall: 0.7871
+verb f1: 0.7824
+verb threshold: 4
+verb accuracy: 0.8720
+verb precision: 0.8023
+verb recall: 0.7604
+verb f1: 0.7808
+verb threshold: 5
+verb accuracy: 0.8726
+verb precision: 0.8228
+verb recall: 0.7331
+verb f1: 0.7754
+verb threshold: 6
+verb accuracy: 0.8728
+verb precision: 0.8449
+verb recall: 0.7053
+verb f1: 0.7688
+verb threshold: 7
+verb accuracy: 0.8689
+verb precision: 0.8641
+verb recall: 0.6678
+verb f1: 0.7534
+verb threshold: 8
+verb accuracy: 0.8588
+verb precision: 0.8770
+verb recall: 0.6156
+verb f1: 0.7234
+verb threshold: 9
+verb accuracy: 0.8437
+verb precision: 0.8878
+verb recall: 0.5480
+verb f1: 0.6777
+best verb threshold: 2
+best verb accuracy: 0.8658
+best verb precision: 0.7543
+best verb recall: 0.8194
+best verb f1: 0.7855
+
+allpos threshold: 0
+allpos accuracy: 0.1794
+allpos precision: 0.1794
+allpos recall: 1.0000
+allpos f1: 0.3042
+allpos threshold: 1
+allpos accuracy: 0.8922
+allpos precision: 0.6593
+allpos recall: 0.8262
+allpos f1: 0.7334
+allpos threshold: 2
+allpos accuracy: 0.9092
+allpos precision: 0.7364
+allpos recall: 0.7695
+allpos f1: 0.7525
+allpos threshold: 3
+allpos accuracy: 0.9125
+allpos precision: 0.7674
+allpos recall: 0.7351
+allpos f1: 0.7509
+allpos threshold: 4
+allpos accuracy: 0.9144
+allpos precision: 0.7947
+allpos recall: 0.7049
+allpos f1: 0.7471
+allpos threshold: 5
+allpos accuracy: 0.9138
+allpos precision: 0.8147
+allpos recall: 0.6725
+allpos f1: 0.7368
+allpos threshold: 6
+allpos accuracy: 0.9127
+allpos precision: 0.8338
+allpos recall: 0.6411
+allpos f1: 0.7249
+allpos threshold: 7
+allpos accuracy: 0.9103
+allpos precision: 0.8538
+allpos recall: 0.6030
+allpos f1: 0.7068
+allpos threshold: 8
+allpos accuracy: 0.9060
+allpos precision: 0.8714
+allpos recall: 0.5583
+allpos f1: 0.6805
+allpos threshold: 9
+allpos accuracy: 0.8986
+allpos precision: 0.8897
+allpos recall: 0.4962
+allpos f1: 0.6371
+best allpos threshold: 2
+best allpos accuracy: 0.9092
+best allpos precision: 0.7364
+best allpos recall: 0.7695
+best allpos f1: 0.7525
+
+verb threshold: 0
+verb accuracy: 0.2998
+verb precision: 0.2998
+verb recall: 1.0000
+verb f1: 0.4614
+verb threshold: 1
+verb accuracy: 0.8321
+verb precision: 0.6678
+verb recall: 0.8756
+verb f1: 0.7577
+verb threshold: 2
+verb accuracy: 0.8585
+verb precision: 0.7320
+verb recall: 0.8330
+verb f1: 0.7793
+verb threshold: 3
+verb accuracy: 0.8686
+verb precision: 0.7701
+verb recall: 0.8007
+verb f1: 0.7851
+verb threshold: 4
+verb accuracy: 0.8708
+verb precision: 0.7975
+verb recall: 0.7626
+verb f1: 0.7797
+verb threshold: 5
+verb accuracy: 0.8711
+verb precision: 0.8153
+verb recall: 0.7371
+verb f1: 0.7742
+verb threshold: 6
+verb accuracy: 0.8689
+verb precision: 0.8310
+verb recall: 0.7064
+verb f1: 0.7637
+verb threshold: 7
+verb accuracy: 0.8645
+verb precision: 0.8444
+verb recall: 0.6718
+verb f1: 0.7483
+verb threshold: 8
+verb accuracy: 0.8585
+verb precision: 0.8560
+verb recall: 0.6349
+verb f1: 0.7291
+verb threshold: 9
+verb accuracy: 0.8531
+verb precision: 0.8831
+verb recall: 0.5877
+verb f1: 0.7058
+best verb threshold: 3
+best verb accuracy: 0.8686
+best verb precision: 0.7701
+best verb recall: 0.8007
+best verb f1: 0.7851
+allpos threshold: 0
+allpos accuracy: 0.1794
+allpos precision: 0.1794
+allpos recall: 1.0000
+allpos f1: 0.3042
+allpos threshold: 1
+allpos accuracy: 0.8853
+allpos precision: 0.6356
+allpos recall: 0.8456
+allpos f1: 0.7257
+allpos threshold: 2
+allpos accuracy: 0.9035
+allpos precision: 0.7044
+allpos recall: 0.7958
+allpos f1: 0.7473
+allpos threshold: 3
+allpos accuracy: 0.9103
+allpos precision: 0.7451
+allpos recall: 0.7597
+allpos f1: 0.7523
+allpos threshold: 4
+allpos accuracy: 0.9122
+allpos precision: 0.7733
+allpos recall: 0.7223
+allpos f1: 0.7469
+allpos threshold: 5
+allpos accuracy: 0.9134
+allpos precision: 0.7964
+allpos recall: 0.6946
+allpos f1: 0.7421
+allpos threshold: 6
+allpos accuracy: 0.9119
+allpos precision: 0.8129
+allpos recall: 0.6612
+allpos f1: 0.7293
+allpos threshold: 7
+allpos accuracy: 0.9098
+allpos precision: 0.8311
+allpos recall: 0.6241
+allpos f1: 0.7129
+allpos threshold: 8
+allpos accuracy: 0.9063
+allpos precision: 0.8441
+allpos recall: 0.5859
+allpos f1: 0.6917
+allpos threshold: 9
+allpos accuracy: 0.9025
+allpos precision: 0.8656
+allpos recall: 0.5402
+allpos f1: 0.6652
+best allpos threshold: 3
+best allpos accuracy: 0.9103
+best allpos precision: 0.7451
+best allpos recall: 0.7597
+best allpos f1: 0.7523
+
+verb accuracy: 0.2998
+verb precision: 0.2998
+verb recall: 1.0000
+verb f1: 0.4614
+verb threshold: 1
+verb accuracy: 0.8716
+verb precision: 0.7618
+verb recall: 0.8319
+verb f1: 0.7953
+verb threshold: 2
+verb accuracy: 0.8731
+verb precision: 0.7668
+verb recall: 0.8291
+verb f1: 0.7967
+verb threshold: 3
+verb accuracy: 0.8737
+verb precision: 0.7683
+verb recall: 0.8285
+verb f1: 0.7973
+verb threshold: 4
+verb accuracy: 0.8759
+verb precision: 0.7745
+verb recall: 0.8268
+verb f1: 0.7998
+verb threshold: 5
+verb accuracy: 0.8767
+verb precision: 0.7783
+verb recall: 0.8234
+verb f1: 0.8002
+verb threshold: 6
+verb accuracy: 0.8781
+verb precision: 0.7835
+verb recall: 0.8200
+verb f1: 0.8013
+verb threshold: 7
+verb accuracy: 0.8800
+verb precision: 0.7888
+verb recall: 0.8189
+verb f1: 0.8036
+verb threshold: 8
+verb accuracy: 0.8805
+verb precision: 0.7924
+verb recall: 0.8149
+verb f1: 0.8035
+verb threshold: 9
+verb accuracy: 0.8806
+verb precision: 0.7948
+verb recall: 0.8115
+verb f1: 0.8030
+best verb threshold: 7
+best verb accuracy: 0.8800
+best verb precision: 0.7888
+best verb recall: 0.8189
+best verb f1: 0.8036
+allpos threshold: 0
+allpos accuracy: 0.1794
+allpos precision: 0.1794
+allpos recall: 1.0000
+allpos f1: 0.3042
+allpos threshold: 1
+allpos accuracy: 0.9113
+allpos precision: 0.7403
+allpos recall: 0.7788
+allpos f1: 0.7590
+allpos threshold: 2
+allpos accuracy: 0.9149
+allpos precision: 0.7583
+allpos recall: 0.7720
+allpos f1: 0.7651
+allpos threshold: 3
+allpos accuracy: 0.9153
+allpos precision: 0.7603
+allpos recall: 0.7712
+allpos f1: 0.7657
+allpos threshold: 4
+allpos accuracy: 0.9159
+allpos precision: 0.7633
+allpos recall: 0.7702
+allpos f1: 0.7667
+allpos threshold: 5
+allpos accuracy: 0.9162
+allpos precision: 0.7651
+allpos recall: 0.7687
+allpos f1: 0.7669
+allpos threshold: 6
+allpos accuracy: 0.9165
+allpos precision: 0.7673
+allpos recall: 0.7670
+allpos f1: 0.7671
+allpos threshold: 7
+allpos accuracy: 0.9170
+allpos precision: 0.7701
+allpos recall: 0.7662
+allpos f1: 0.7681
+allpos threshold: 8
+allpos accuracy: 0.9171
+allpos precision: 0.7716
+allpos recall: 0.7644
+allpos f1: 0.7680
+allpos threshold: 9
+allpos accuracy: 0.9171
+allpos precision: 0.7736
+allpos recall: 0.7604
+allpos f1: 0.7670
+best allpos threshold: 7
+best allpos accuracy: 0.9170
+best allpos precision: 0.7701
+best allpos recall: 0.7662
+best allpos f1: 0.7681
