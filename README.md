@@ -57,6 +57,8 @@ python ensemble.py
   title={DeepMet: A Reading Comprehension Paradigm for Token-level Metaphor Detection},
   author={Su, Chuandong and Fukumoto, Fumiyo and Huang, Xiaoxi and Wang, Rongbo and Chen, Zhiqun},
   booktitle={The Second Workshop on Figurative Language Processing},
+  month={July},
+  address={Seattle, WA},
   year={2020}
 }
 ```
